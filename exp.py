@@ -12,7 +12,8 @@ class Exp(object):
 def main():
 	simon = Exp('simon')
 	simon.talk() 
-
+	matt = Exp('matt')
+	matt.talk() 
 
 if __name__ == "__main__":
 	main()
