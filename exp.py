@@ -14,7 +14,7 @@ def main():
 	simon.talk() 
 	matt = Exp('matt')
 	matt.talk() 
-	#hello
+	#hello again
 
 if __name__ == "__main__":
 	main()
